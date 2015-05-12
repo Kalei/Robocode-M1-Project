@@ -1,0 +1,16 @@
+OUI CEST HUGO QUI FAIT CA COMME CE SOIR JE VAIS CHIME ET QUE JAI PLUS ACCES AU VPN ( Ville de Proxinitisme et Narcotiques)
+-------------------------------------------------------------------------------------------------------------------------------------
+Et c'est sofiane qui verifie que hugo ne fasse pas de la merde :p aussi je rajoute quelque truc on mets tout ça en forme ce week end
+-------------------------------------------------------------------------------------------------------------------------------------
+Travail effectué :
+
+- Familiarisation avec l'API et l'Ui Robocode
+- Choix du type de Robot a utiliser(API Robocode).
+- Réflection sur les methodes Robocode a utilisé pour implémentation des algorithmes
+- Refelection sur la récupération des variables utiles pour la phase de test ( Algorithme Réseau de neuronne )
+
+A faire:
+-> Modelisation uml (etablire diagramme de class voir diagramme de sequence)
+-> Implémentation de l'API Neuroph à Robocode
+-> Calendrier dynamique sur le site
+-> Commencer l'implémentation

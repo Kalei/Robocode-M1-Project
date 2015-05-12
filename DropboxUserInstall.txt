@@ -1,0 +1,9 @@
+# Install the command-line Dropbox frontend script, in ~/bin/share, and run
+dropbox.  Adjust the directory to your liking.
+mkdir -p ~/bin/share
+cd ~/bin/share
+wget -O dropbox.py "http://www.dropbox.com/download?dl=packages/dropbox.py"
+chmod 755 dropbox.py
+# For a usage message:  ./dropbox.py help
+./dropbox.py start -i
+./dropbox.py autostart y
